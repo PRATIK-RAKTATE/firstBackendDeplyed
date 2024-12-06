@@ -1,0 +1,29 @@
+wirte command 
+npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+follow all procedure
+
+step 2:
+make index.js filw as mention at time of project initialization
+
+step 3: 
+running this file usign package.json file
+writing command in package.json in scripts is 
+"start": "node index.js"
+
+now in terminal we can run this file using
+ npm run start
+
+> firstbackend@1.0.0 start
+> node index.js
+
+pratik raktate
+
+
+step 4:
+
+Installing express
+npm install express
+now we can see express in dependencies
